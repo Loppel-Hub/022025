@@ -1,0 +1,8 @@
+{
+    "name": "MyPV Integration",
+    "content_in_root": false,
+    "domains": ["my_pv"],
+    "homeassistant": "2025.1",
+    "render_readme": false,
+    "render_readme_path": "INFO.md"
+}

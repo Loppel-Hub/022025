@@ -1,0 +1,12 @@
+{
+  "domain": "my_pv",
+  "name": "MyPV Integration",
+  "version": "0.1.0",
+  "requirements": ["aiohttp"],
+  "dependencies": [],
+  "config_flow": true,
+  "codeowners": ["@Loppel-Hub"],
+  "documentation": "https://github.com/Loppel-Hub/022025/blob/main/INFO.md",
+  "iot_class": "cloud_polling",
+  "integration_type": "service"
+}
